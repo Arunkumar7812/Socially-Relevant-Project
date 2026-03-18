@@ -1,4 +1,4 @@
-##🌱 Farmers Disease Diagnostic Reporting Portal (Mobile-Based)
+#🌱 Farmers Disease Diagnostic Reporting Portal (Mobile-Based)##
 ####📌 Project Overview
 
 The Farmers Disease Diagnostic Reporting Portal is a mobile-based application designed to help farmers detect crop diseases at an early stage using technology. The system allows farmers to upload images of infected crops, analyze them using AI-based disease detection models, and receive treatment recommendations.
