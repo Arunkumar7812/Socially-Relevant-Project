@@ -1,4 +1,4 @@
-*****🌱 Farmers Disease Diagnostic Reporting Portal (Mobile-Based)*****
+****🌱 Farmers Disease Diagnostic Reporting Portal (Mobile-Based)****
 
 Project Overview
 
